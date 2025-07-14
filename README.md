@@ -1,2 +1,2 @@
 # ci-sample-project
-system.out.println("Hello Teams");
+system.out.println("Hello Team");
